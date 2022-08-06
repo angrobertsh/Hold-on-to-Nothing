@@ -183,8 +183,8 @@ img {
 
 .character-portrait {
 	display: block;
-	height: 130px;
-	width: 130px;
+	height: 100px;
+	width: 100px;
 	cursor: pointer;
 	color: black;
   	background-size: cover;
@@ -240,7 +240,7 @@ img {
 }
 
 #chapters-label {
-
+	margin: 4px 0 8px 0;
 }
 
 #chapter-nav {
