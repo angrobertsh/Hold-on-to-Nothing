@@ -145,7 +145,7 @@ img {
 
 .declaration {
 	color: white;
-	padding: 2rem;
+	padding: 0 2rem 5rem 2rem;
 	font-size: 2rem;
 	text-align: center;
 }
@@ -487,16 +487,25 @@ img {
 	.chapter {
 	}
 
-	.drawer {
+	#drawer {
+		padding-bottom: 5rem;
 	}
 
 	.portrait {
+	}
+
+	.author {
+		margin-bottom: 3.5rem;
 	}
 
 	.cover-image {
 		background-size: cover;
 		width: 100vw;
 		height: 100vh;
+	}
+
+	.selector-title {
+		margin: 0 0 12px 0;
 	}
 
 	#character-selector {
@@ -512,7 +521,7 @@ img {
 
 	#characters-container > div {
 		flex: 1 0 51%;
-		margin: 20px 0;
+		margin: 8px 0;
 	}
 
 	#page-container {
