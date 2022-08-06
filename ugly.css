@@ -538,6 +538,7 @@ img {
 
 	.image-container {
 		border: none;
+		align-items: flex-start;
 	}
 
 	img {
