@@ -68,14 +68,14 @@ img {
 }
 
 .stanza p {
-	line-height: 1;
+	line-height: 1.2;
 	margin: 0;
 }
 
 .stanza > .left {
 	display: flex;
 	flex-direction: column;
-	line-height: 1;
+	line-height: 1.2;
 	margin: 0;
 }
 
@@ -83,7 +83,7 @@ img {
 	display: flex;
 	flex-direction: column;
 	align-items: flex-end;
-	line-height: 1;
+	line-height: 1.2;
 	margin: 0;
 }
 
