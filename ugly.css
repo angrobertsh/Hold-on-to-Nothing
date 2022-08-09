@@ -316,13 +316,11 @@ img {
 }
 
 #book-icon {
-	font-size: 1.5rem;
+	font-size: 2.5rem;
 	cursor: pointer;
-	margin: 1.5rem;
-	padding: 0 5px 5px 5px;
+	margin: .5rem 1.5rem;
 	right: 0;
 	top: 0;
-	box-shadow: -5px 5px 10px 0px rgba(0, 0, 0, 0.5);
 }
 
 #scroll-up {
